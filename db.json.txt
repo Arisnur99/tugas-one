@@ -1,0 +1,16 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "Aris",
+      "age": "26",
+      "diagnosis": "Demam"
+    },
+    {
+      "id": 2,
+      "name": "Siti",
+      "age": "34",
+      "diagnosis": "Flu"
+    }
+  ]
+}

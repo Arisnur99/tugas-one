@@ -1,0 +1,64 @@
+{
+  "patients": [
+    {
+      "id": null,
+      "name": "aris nur",
+      "age": "26",
+      "diagnosis": "demam"
+    },
+    {
+      "id": null,
+      "name": "aris nur",
+      "age": "26",
+      "diagnosis": "demam"
+    },
+    {
+      "id": null,
+      "name": "Aris nur",
+      "age": "26",
+      "diagnosis": "demam"
+    },
+    {
+      "id": null,
+      "name": "aris nur",
+      "age": "26",
+      "diagnosis": "demam"
+    },
+    {
+      "id": null,
+      "name": "aris",
+      "age": "1",
+      "diagnosis": "demam"
+    },
+    {
+      "id": null,
+      "name": "Aris nur",
+      "age": "26",
+      "diagnosis": "demam"
+    },
+    {
+      "id": null,
+      "name": "aris",
+      "age": "26",
+      "diagnosis": "demam"
+    },
+    {
+      "id": null,
+      "name": "amrul",
+      "age": "18",
+      "diagnosis": "jantung"
+    },
+    {
+      "id": null,
+      "name": "zuliakha",
+      "age": "20",
+      "diagnosis": "pusing"
+    },
+    {
+      "id": null,
+      "name": "fatiah",
+      "age": "18",
+      "diagnosis": "pingsan"
+    }
+  ]
+}
